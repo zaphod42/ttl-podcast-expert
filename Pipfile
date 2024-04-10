@@ -1,0 +1,12 @@
+[packages]
+llama-index = "*"
+llama-index-llms-ollama = "*"
+llama-index-embeddings-huggingface = "*"
+llama-index-readers-file = "*"
+llama-index-readers-web = "*"
+
+[dev-packages]
+
+[build-packages]
+
+[test-packages]
